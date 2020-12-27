@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/generic-tech.json#startSouthWest}"
+                 "value":"{<lobby>\/maps\/generic-tech.json#start_helferlein}"
                 }],
          "type":"tilelayer",
          "visible":true,
