@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/generic-tech.json#startSouthWest"
+                 "value":"generic-tech.json#startSouthWest"
                 }],
          "type":"tilelayer",
          "visible":true,
