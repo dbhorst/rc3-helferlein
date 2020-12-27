@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiroom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"helferlein"
                 }],
