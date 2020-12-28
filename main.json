@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared Helferlein"
+                 "value":"shared_Helferlein"
                 }],
          "type":"tilelayer",
          "visible":true,
