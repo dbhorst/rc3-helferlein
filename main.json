@@ -138,7 +138,7 @@
                 {
                  "name":"bbbRoom",
                  "type":"string",
-                 "value":"helferlein"
+                 "value":"bbb:\/\/helferlein\/helferlein"
                 }, 
                 {
                  "name":"bbbTrigger",
